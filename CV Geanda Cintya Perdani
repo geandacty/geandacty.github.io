@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>CV | Geanda Cintya Perdani</title>
+</head>
+<body>
+<h1 style="text-align: center;">Curriculum Vitae</h1>
+    <hr>
+
+    <h2>Profil</h2>
+    <p>
+         Mahasiswi Sistem Informasi Telkom University dengan minat di bidang kepemimpinan, 
+    komunikasi, dan pengembangan diri. Terbiasa bekerja sama dalam tim, berbicara di depan umum, dan menyelesaikan masalah dengan solusi yang efektif. 
+    Siap mengembangkan keterampilan ini untuk berkontribusi di berbagai kegiatan kampus maupun profesional.
+    </p>
+    <hr>
+
+    <h2>Data Diri</h2>
+    <p><strong>Nama:</strong> Geanda Cintya Perdani</p>
+    <p><strong>Email:</strong> geandacty@gmail.com</p>
+    <p><strong>Lokasi:</strong> Padang, Sumatra Barat, Indonesia</p>
+
+    <hr>
+    <h2>Pendidikan</h2>
+
+    <ul>
+        <li>Telkom University Jakarta – Sistem Informasi (2024 - Sekarang)</li>
+        <li>SMA Semen Padang – MIPA (2021 - 2024)</li>
+    </ul>
+
+    <hr>
+    <h2>Pengalaman</h2>
+
+    <ul>
+    <li>Core Team Google Developer Group on Campus Telkom University Jakarta Divisi Acara (2024-Sekarang)</li>
+    <li>Anggota aktif Marketing Crew Telkom University Jakarta Divisi Digital (2024 - Sekarang)</li>
+    <li>Juara 1 Cipta Kreasi CBPR (2023)</li>
+    <li>Ketua Divisi Acara OSIS `(2022 - 2023)</li>
+    <li>Koordinator Acara MPLS OSIS (2023)</li>
+    <li>Konselor Sebaya PIK-R (2022 - 2023)</li>
+    <li>Duta Sekolah GESID oleh AIESEC (2022)</li>
+    <li>Peserta Lomba Debat se-Sumatra di Universitas Andalas (2021) – Tema: Pertanian Berkelanjutan untuk Ketahanan Pangan</li>
+</ul>
+    
+    <hr>
+    <h2>Keahlian</h2>
+    <ul>
+        <li>Public Speaking</li>
+        <li>Kepemimpinan</li>
+        <li>Kolaborasi Tim</li>
+        <li>Debat</li>
+        <li>Problem-Solving</li>
+        <li>Communication Skills</li>
+    </ul>
+</body>
+</html>
